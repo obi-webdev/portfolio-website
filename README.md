@@ -20,7 +20,7 @@ To become a professional Full-Stack Web Developer, build innovative AI-powered a
 
 View my portfolio:
 
-https://obi-webdev.my.canva.site
+obi-webdev.my.canva.site
 
 ## Connect With Me
 
