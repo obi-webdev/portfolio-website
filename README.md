@@ -20,13 +20,13 @@ To become a professional Full-Stack Web Developer, build innovative AI-powered a
 
 View my portfolio:
 
-obi-webdev.my.canva.site
+https://obi-webdev.my.canva.site/about-me-website-in-brown-light-yellow-vintage-cinematica-style
 
 ## Connect With Me
 
 📧 Email:godstreasureamarachi01@gmail.com 
 
-🌍 Portfolio: https://obi-webdev.my.canva.site
+🌍 Portfolio: https://obi-webdev.my.canva.site/about-me-website-in-brown-light-yellow-vintage-cinematica-style
 
 💼 LinkedIn: Coming Soon
 
