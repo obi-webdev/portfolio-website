@@ -18,7 +18,7 @@ I am a Computer Science student passionate about Web Development, Artificial Int
 To become a professional Full-Stack Web Developer, build innovative AI-powered applications, and create technology that solves real-world problems.
 ## 🌐 Live Portfolio
 
-View my portfolio here:
+View my portfolio:
 
 https://obi-webdev.my.canva.site
 
@@ -26,7 +26,7 @@ https://obi-webdev.my.canva.site
 
 📧 Email:godstreasureamarachi01@gmail.com 
 
-🌍 Portfolio: Coming Soon
+🌍 Portfolio: https://obi-webdev.my.canva.site
 
 💼 LinkedIn: Coming Soon
 
