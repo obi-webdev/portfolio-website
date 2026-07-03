@@ -16,6 +16,11 @@ I am a Computer Science student passionate about Web Development, Artificial Int
 ## 🎯 Current Goal
 
 To become a professional Full-Stack Web Developer, build innovative AI-powered applications, and create technology that solves real-world problems.
+## 🌐 Live Portfolio
+
+View my portfolio here:
+
+https://obi-webdev.my.canva.site
 
 ## Connect With Me
 
